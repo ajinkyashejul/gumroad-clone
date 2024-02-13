@@ -25,7 +25,10 @@ products_data.each do |product_data|
     product_data.delete('is_sales_limited')
     product_data.delete('duration_in_months')
     product_data.delete('recurrence')
-    Product.create!(product_data)
+    # Product.create!(product_data)
 end
+
+# get count of all products with creator = 'easlo' in db
+puts Product.where(creator: 'easlo').count
 
 puts "Created #{count} products"

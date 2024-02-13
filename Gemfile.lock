@@ -88,6 +88,7 @@ GEM
     debug (1.9.1)
       irb (~> 1.10)
       reline (>= 0.3.8)
+    dotenv (3.0.0)
     drb (2.2.0)
       ruby2_keywords
     erubi (1.12.0)
@@ -207,6 +208,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   debug
+  dotenv
   mongoid
   puma (>= 5.0)
   rack-cors
