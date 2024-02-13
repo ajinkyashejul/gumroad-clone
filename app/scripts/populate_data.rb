@@ -5,9 +5,8 @@ require 'mongoid'
 require_relative '../../config/environment.rb'
 
 # Load Mongoid config (ensure this points to your Mongoid config file)
-Mongoid.load!('/Users/ajinkyashejul/Documents/dev/gumroad-clone/config/mongoid.yml', :development)
-
-# Define your Product model here if not already defined
+mongoid_path = File.expand_path('../../config/mongoid.yml', __dir__)
+Mongoid.load!(mongoid_path, :development)
 
 # Read JSON data from file
 file_path = File.join(File.dirname(__FILE__), 'products.json')
