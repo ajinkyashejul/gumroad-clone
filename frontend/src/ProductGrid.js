@@ -6,7 +6,7 @@ const ProductGrid = () => {
 
   useEffect(() => {
     // Replace 'YOUR_API_ENDPOINT' with the actual endpoint from which you're fetching products
-    fetch('http://localhost:3000/products?creator=easlo')
+    fetch('https://gumroad-clone.onrender.com/products?creator=easlo')
       .then(response => response.json())
       .then(data => setProducts(data))
       .catch(error => console.error('Error fetching data:', error));
