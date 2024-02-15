@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .App-logo {
@@ -23,8 +28,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
+*/ .App-link {
   color: #61dafb;
 }
 
@@ -36,3 +40,99 @@
     transform: rotate(360deg);
   }
 }
+
+/* In App.css or another global stylesheet */
+@font-face {
+  font-family: "MabryProLight"; /* Name it whatever you like */
+  src: url("../public/MabryPro-Light.ttf") format("truetype"); /* Adjust the path as necessary */
+}
+
+body {
+  font-family: "MabryProLight", sans-serif; /* Fallback to sans-serif in case the font doesn't load */
+}
+
+input[type="email"] {
+  font-family: inherit;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  --line-height: 1.5rem;
+  border: solid 0.0625rem rgb(0 0 0);
+  border-radius: 0.25rem;
+  display: block;
+  width: 100%;
+  background-color: rgb(255 255 255);
+  color: rgb(0 0 0);
+  --active-bg: #ffffff;
+}
+
+input:not([type]) {
+  font-family: inherit;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  --line-height: 1.5rem;
+  border: solid 0.0625rem rgb(0 0 0);
+  border-radius: 0.25rem;
+  display: block;
+  width: 100%;
+  background-color: rgb(255 255 255);
+  color: rgb(0 0 0);
+  --active-bg: #ffffff;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  gap: 0.5rem;
+  margin-inline-start: 2px;
+  margin-inline-end: 2px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+}
+
+fieldset legend {
+  display: flex;
+  align-items: center;
+  position: relative;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.5;
+  --line-height: 1.5rem;
+}
+
+label {
+  display: inline-flex;
+  gap: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  --line-height: 1.5rem;
+  cursor: pointer;
+}
+
+fieldset legend label{
+  font-weight: 400;
+}
+
+
+select{
+  font-family: inherit;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  --line-height: 1.5rem;
+  border: solid 0.0625rem rgb(0 0 0);
+  border-radius: 0.25rem;
+  display: block;
+  width: 100%;
+  background-color: rgb(255 255 255);
+  color: rgb(0 0 0);
+  --active-bg: #ffffff;
+}
+
