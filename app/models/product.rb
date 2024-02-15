@@ -3,6 +3,7 @@ class Product
     field :external_id, type: String
     field :permalink, type: String
     field :name, type: String
+    field :is_template_bundle, type: Mongoid::Boolean
     field :creator, type: String
     field :ratings, type: Hash
     field :price, type: Integer

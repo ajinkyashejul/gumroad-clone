@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import "./Main.css";
 import ProductCard from "./ProductCard";
-import productData from "./products.json";
+// import productData from "./products.json";
 import FiltersStack from "./Filters";
 import gumroadIcon from "./icon-gumroad.svg"
 
@@ -19,8 +19,9 @@ const Main = () => {
 
   useEffect(() => {
     const fetchOrSortProducts = async (sortOption) => {
-      const Products = productData;
-
+      const response = await fetch('https://gumroad-clone.onrender.com/products?creator=easlo');
+      const Products = await response.json();
+    
       const productsByPopularity = [...Products].sort((a, b) => {
         if (b.ratings.count !== a.ratings.count) {
           return b.ratings.count - a.ratings.count;
