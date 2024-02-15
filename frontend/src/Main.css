@@ -5,8 +5,6 @@
     overflow: auto;
     grid-column: 1;
     border-top: solid .0625rem rgb(0);
-    /* padding-left:max((100% - 71.25rem)/2,4rem);
-    padding-right: max((100% - 71.25rem)/2,4rem); */
 }
 
 .Main > *:not(:first-child) {
