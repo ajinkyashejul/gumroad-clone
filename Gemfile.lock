@@ -76,7 +76,7 @@ GEM
       mutex_m
       tzinfo (~> 2.0)
     base64 (0.2.0)
-    bigdecimal (3.1.6)
+    bigdecimal (3.1.7)
     bootsnap (1.18.3)
       msgpack (~> 1.2)
     bson (4.15.0)
@@ -94,7 +94,7 @@ GEM
     erubi (1.12.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     io-console (0.7.2)
     irb (1.11.2)
@@ -206,9 +206,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bigdecimal (= 3.1.7)
   bootsnap
   debug
   dotenv
+  i18n (= 1.14.4)
   mongoid
   puma (>= 5.0)
   rack-cors

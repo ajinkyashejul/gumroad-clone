@@ -1,0 +1,3540 @@
+{
+    "notion template": [
+        {
+            "id": "AnekSj9IvohRR37U-gxGig==",
+            "permalink": "zzkXrq",
+            "name": "Resume Template",
+            "creator": null,
+            "ratings": {
+                "count": 810,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/xj8l65xfslidrl7nf46vyvg7v3p8",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/zzkXrq?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/gd1akzxcj7zw72cwt2v470ii4wwq",
+                    "original_url": "https://public-files.gumroad.com/h5xm48wkd33dgp7055c7p3pymd86",
+                    "thumbnail": null,
+                    "id": "504d5e3f6ee6fbdb9d69ed1c08800e30",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "504d5e3f6ee6fbdb9d69ed1c08800e30",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U1LDt5DTpAgZM20h1XEs7g==",
+            "permalink": "oAOvg",
+            "name": "Invoice Template",
+            "creator": null,
+            "ratings": {
+                "count": 282,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/tpjwrsav1vzoz5x57a3b31zf1pnz",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/oAOvg?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/e7rrmyp04mkq68pqnp1zgep7r4zg",
+                    "original_url": "https://public-files.gumroad.com/kl1na4mg0mx65d678ybu8ctv9hnp",
+                    "thumbnail": null,
+                    "id": "3030b113458e28621193f1e58aff3d91",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/gky4yrsxff2nlh3hebc1mjjosslj",
+                    "original_url": "https://public-files.gumroad.com/0709cucti7m36n1g27dabrg3y1s9",
+                    "thumbnail": null,
+                    "id": "948e97dc51035faa3ef51752f4ec8b4a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "3030b113458e28621193f1e58aff3d91",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "7gLD2laC-UkPAKg4bzQZwQ==",
+            "permalink": "fuTxv",
+            "name": "Investment Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 1,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lfku788xsgsjdnru2azpv5x82sqq",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/fuTxv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/6ze0voecgsce1swqtua9rvwyqblw",
+                    "original_url": "https://public-files.gumroad.com/udtfvagwbi4rlztokgdtj1iuerr6",
+                    "thumbnail": null,
+                    "id": "8059d05421782fef38cad3cf026fa727",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "8059d05421782fef38cad3cf026fa727",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "TSaCOFoaLEuhYoNNlPFUgw==",
+            "permalink": "hUGAv",
+            "name": "Starter Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 9487,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/7pazj8g9ay8tn49vgxj5k87j8m51",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hUGAv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ucqvri33h96qpvj95pp9r4mwq8cm",
+                    "original_url": "https://public-files.gumroad.com/vnonsf6hnupz0u82z9rptq6987ii",
+                    "thumbnail": null,
+                    "id": "397942fd7d9bd6bb74aa38f3579bb27a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "397942fd7d9bd6bb74aa38f3579bb27a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "eTgG2wyvUsOdogUUsLQoBw==",
+            "permalink": "wsviv",
+            "name": "Website Template Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 61,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/1hymgbmy07fiveeg2g5vb3254xm3",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/wsviv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/gn8xszg9ucbcrqj5lfdjt8254b2c",
+                    "original_url": "https://public-files.gumroad.com/gpgxn9cqdyl7ozd51kgw9q6aza5n",
+                    "thumbnail": null,
+                    "id": "6a2a38cd075c5c183abd703f38da5563",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                },
+                {
+                    "url": "https://public-files.gumroad.com/tgvg6m8n9aah3pmswacey3oga8ik",
+                    "original_url": "https://public-files.gumroad.com/jefwf3b9h4lcts01o923h805f49y",
+                    "thumbnail": null,
+                    "id": "987d84e5bf66a533338630ef04f3b9ca",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                },
+                {
+                    "url": "https://public-files.gumroad.com/k8ai65qytuamr9aibaqinmir93r8",
+                    "original_url": "https://public-files.gumroad.com/nu8yqm427x0du1jljzhyu24zytb8",
+                    "thumbnail": null,
+                    "id": "f8b2229ac95c03c6a768c229891ac55a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                }
+            ],
+            "main_cover_id": "6a2a38cd075c5c183abd703f38da5563",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "9X4WcWtuz7ij0R7xpTu4iQ==",
+            "permalink": "DEnNV",
+            "name": "Habit Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2368,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/fnno94qcqdursp8m9k51kqjm2brx",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/DEnNV?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/0bfcns2c69z4y5phw7pb29rdddg1",
+                    "original_url": "https://public-files.gumroad.com/6jxec7kvzkllat1fl8am8jlayq3n",
+                    "thumbnail": null,
+                    "id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "r14TKVdsEe7gM4DLF58Maw==",
+            "permalink": "beygm",
+            "name": "Finance Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 131,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/pdy8nhs30h4ur9wez3nrdfxlw787",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/beygm?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ao0iyg1j8kp94q6vceyogdpacmsz",
+                    "original_url": "https://public-files.gumroad.com/0fz7qyp601bq0i15h6l8bp5gmw54",
+                    "thumbnail": null,
+                    "id": "6e9571cafd9340728760c8695235ed77",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/4ll4h74t0w1a8ztl5uoe1canoqe3",
+                    "original_url": "https://public-files.gumroad.com/rg8g8weh99zkh4xakijw2dcs32l5",
+                    "thumbnail": null,
+                    "id": "d311134dccefebe0528e7f631109ec8e",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6e9571cafd9340728760c8695235ed77",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "GtsLPnJOqk392GtqUAMooQ==",
+            "permalink": "gpckg",
+            "name": "Freelance OS",
+            "creator": null,
+            "ratings": {
+                "count": 47,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/ei6imsqw7qn0muol2pdx6kuit16d",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/freelanceos?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ogh6bcmug8cokxdhbunkrd3aia7e",
+                    "original_url": "https://public-files.gumroad.com/xupi0ml0cv4x91a548zp81p92nve",
+                    "thumbnail": null,
+                    "id": "616b94b72996fa9735420bc7c499220d",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "616b94b72996fa9735420bc7c499220d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "AgEuQMKKbunE4QyBSkfHzQ==",
+            "permalink": "bpvho",
+            "name": "CRM Template",
+            "creator": null,
+            "ratings": {
+                "count": 508,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/k5vdvm80fg9r828scp1dpe0pnbzn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/bpvho?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/hss5827bw33jcq4f1iszl4kgu817",
+                    "original_url": "https://public-files.gumroad.com/4ek7oty7q8wk445r1nt911svwg9i",
+                    "thumbnail": null,
+                    "id": "6c35b9cf8818bb3e27d22152584fc82b",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6c35b9cf8818bb3e27d22152584fc82b",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "jl0f6UTQfKXHSJsCnlNzlg==",
+            "permalink": "dvspj",
+            "name": "Objectives and Key Results (OKRs) Template",
+            "creator": null,
+            "ratings": {
+                "count": 108,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/8ko09l53lj0cjxnngrq7wv5xuj9a",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/dvspj?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7xau7jmgw9c3d3768th792whojnm",
+                    "original_url": "https://public-files.gumroad.com/mmihvfb3lh6rw1m7jg75djh2y50u",
+                    "thumbnail": null,
+                    "id": "ea1b89d0d62a15e22594a71939a39e63",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "ea1b89d0d62a15e22594a71939a39e63",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "VdlB_iNq2u2nmjJu0CBL3Q==",
+            "permalink": "qwzxl",
+            "name": "Second Brain Template",
+            "creator": null,
+            "ratings": {
+                "count": 240,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/nn1f2qdmyq5x36640zc9r4h34chk",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/brain?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/kwswx0y4d5o2fcgnaspcdyfy8xlr",
+                    "original_url": "https://public-files.gumroad.com/hjc66hemmze60ucgsyf0dl4qzbhg",
+                    "thumbnail": null,
+                    "id": "939ffc1feb6aead8779235b9a4cde69c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                },
+                {
+                    "url": "https://public-files.gumroad.com/vz90ya61ypz0aycvrwkwq3rv1ob4",
+                    "original_url": "https://public-files.gumroad.com/8rwgdg7w9szptrtobzypz41f3dgo",
+                    "thumbnail": null,
+                    "id": "d09797b80164e1016da389585dff47ec",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "939ffc1feb6aead8779235b9a4cde69c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "o9ZMyIAK1GW2GfAddqLMww==",
+            "permalink": "axszr",
+            "name": "Complete Bundle ",
+            "creator": null,
+            "ratings": {
+                "count": 59,
+                "average": 4.8
+            },
+            "price": 29900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/oer12af9k985x21ss4jdgi2necrd",
+            "native_type": "bundle",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/axszr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/c0pq5urz7vpided7bptth6kl57dl",
+                    "original_url": "https://public-files.gumroad.com/35sbthemkckc73lztbve881asxq3",
+                    "thumbnail": null,
+                    "id": "11f9885cc345a38c4da9187577e1bc3a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "11f9885cc345a38c4da9187577e1bc3a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U6BDTHuobON6Ut-s-C4ung==",
+            "permalink": "wxtvs",
+            "name": "Content Calendar",
+            "creator": null,
+            "ratings": {
+                "count": 382,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s6envobhjovgyy0nnzygdnp9gg59",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/wxtvs?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/rpr09kh1ie1640bzfd6u901opyym",
+                    "original_url": "https://public-files.gumroad.com/ya5sk2g2jk049a9yv0f09vlxaydq",
+                    "thumbnail": null,
+                    "id": "eef1cdd2f7d30275c7ad543ab8210f23",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1905,
+                    "native_height": 1140
+                }
+            ],
+            "main_cover_id": "eef1cdd2f7d30275c7ad543ab8210f23",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "QCnqUkYseW7jiu5E6MSfTw==",
+            "permalink": "vcfde",
+            "name": "Subscription Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 561,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/revv3bkh8c6qekjc2aewgwr2giv9",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/vcfde?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/x3a2xgq3xmmiig3xw617cdhr7cnz",
+                    "original_url": "https://public-files.gumroad.com/qm480x8le9vpd7gsf7afrcbeoxsv",
+                    "thumbnail": null,
+                    "id": "f9c77b8c70afa7de836b46044894f29d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "f9c77b8c70afa7de836b46044894f29d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "-znJjPe0k9soSAUzGWbYIw==",
+            "permalink": "negwr",
+            "name": "Goal Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 576,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/u76dlyvn3lawkm8uosizlm039gms",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/negwr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zsop63i7jhpnakwjtoulicbe580b",
+                    "original_url": "https://public-files.gumroad.com/xxwewksrhvedrzmlj7jcm3wjqs3t",
+                    "thumbnail": null,
+                    "id": "46f18d1fb9c3adc1743d52d3f0899639",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "46f18d1fb9c3adc1743d52d3f0899639",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "6BAFlLmglUYdPFNjanN4iw==",
+            "permalink": "unndvl",
+            "name": "Template Creator Course",
+            "creator": null,
+            "ratings": {
+                "count": 38,
+                "average": 4.8
+            },
+            "price": 14900,
+            "currency_code": "usd",
+            "thumbnail_url": null,
+            "native_type": "course",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/course?layout=profile",
+            "covers": [],
+            "main_cover_id": null,
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bh7do-1xeR-gEUGu5uHIIg==",
+            "permalink": "ifrdj",
+            "name": "Expense Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2056,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/jnmi34605q919m5xz7kgv2lqoe9k",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/expense?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30",
+                    "original_url": "https://public-files.gumroad.com/akaa6est60dpsuxjoc6n4ly23mk6",
+                    "thumbnail": null,
+                    "id": "13cd85215477fbfa4398fb1f49a3d99f",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "13cd85215477fbfa4398fb1f49a3d99f",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "OMYsq6QNoxhTd5htpV9jQw==",
+            "permalink": "mzizp",
+            "name": "Book Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 922,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lex4zrwaoo09jtob0tlq9tr01x2g",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/mzizp?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5d9wou94mwgo0ou9qfcu6l0sidky",
+                    "original_url": "https://public-files.gumroad.com/wu8gnigzsqi8b6f3qjgzs568lsrl",
+                    "thumbnail": null,
+                    "id": "6270980ab5819cfa383614ccfe9d1d75",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/zh3e1d2s0513mbbgbvm7tjk2we2m",
+                    "original_url": "https://public-files.gumroad.com/gaodngl5r4q82170et4n1m8hy8tz",
+                    "thumbnail": null,
+                    "id": "df5629edd2265b2009559487d8d6dfd0",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6270980ab5819cfa383614ccfe9d1d75",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+    
+        {
+            "id": "bavGravjFtNCy_H0brCDjw==",
+            "permalink": "nqtvy",
+            "name": "Travel Planner",
+            "creator": null,
+            "ratings": {
+                "count": 760,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/txi3r13mdpq8anvv5o30z0w5nzd8",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/nqtvy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7cur5ddhhc6a1w0fzjiqraoy003k",
+                    "original_url": "https://public-files.gumroad.com/hjs128i6rwo6taidlvj2wk6b37ks",
+                    "thumbnail": null,
+                    "id": "61ceeef5c7d726c78d8fca410c6c0793",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/stlnpcbtx53wdisyk1h2g3gyvygh",
+                    "original_url": "https://public-files.gumroad.com/l0ljcc8zwiakd87xtf5xnm9alsbr",
+                    "thumbnail": null,
+                    "id": "f1e561083fd1eaf56fa5ff22a65e2a98",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "61ceeef5c7d726c78d8fca410c6c0793",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bO3Fb2p0qb9tENpCIN49TQ==",
+            "permalink": "hkrwp",
+            "name": "Second Brain Course",
+            "creator": null,
+            "ratings": {
+                "count": 10,
+                "average": 4.8
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/3wutelfc5hqs1yvucny4fx53s6i4",
+            "native_type": "course",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/notioncourse?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/4ierfmul3tyqrt1d161yaugybl5v",
+                    "original_url": "https://public-files.gumroad.com/zc7m5mmobn5a2swfq929rvmkeon5",
+                    "thumbnail": null,
+                    "id": "e7cca09c90f155d3d1e10e1b677dbd60",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "e7cca09c90f155d3d1e10e1b677dbd60",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "ANvJrkranzmqe6vv2fs27Q==",
+            "permalink": "ncigv",
+            "name": "Portfolio Website Template",
+            "creator": null,
+            "ratings": {
+                "count": 202,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/gss451bcrmbz0dqprs1qnf0itjsd",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/ncigv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ppt8zc5fzkpfpfjkf643tva0yt4h",
+                    "original_url": "https://public-files.gumroad.com/e6ckgvyzs83b9mwesycibtsmbfbk",
+                    "thumbnail": null,
+                    "id": "22e77a8da7f18ea8a83f85c03a5b08d9",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 377,
+                    "native_width": 1144,
+                    "native_height": 644
+                }
+            ],
+            "main_cover_id": "22e77a8da7f18ea8a83f85c03a5b08d9",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "66gCFFj255pCPH7BlFTfGg==",
+            "permalink": "xkeese",
+            "name": "Workout Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 1131,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/qzbb0agfy3b6d28dczab24fecee4",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/xkeese?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/9z53mdqxrr3jaddn4vx896jxvv7j",
+                    "original_url": "https://public-files.gumroad.com/lpbyzfv1mylgm2xfsz87ucxdsx87",
+                    "thumbnail": null,
+                    "id": "16762d783a155fe9423052566ab31e58",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/72fm5ic92ris6o91e996g6pspb02",
+                    "original_url": "https://public-files.gumroad.com/q6a1d39srtzizdahvzf96ipgy9zu",
+                    "thumbnail": null,
+                    "id": "69f830338ed17d964a8cebc280fb79aa",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/d7zdez40js4kj1ewfg4s8ig4tyvt",
+                    "original_url": "https://public-files.gumroad.com/i4cp6w3td4dmc9vamzpmdq0bhvtk",
+                    "thumbnail": null,
+                    "id": "ba3d858944109047643b4eee5852c278",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "16762d783a155fe9423052566ab31e58",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "jOFrNXciJuNzisrquxA9eA==",
+            "permalink": "ylrsr",
+            "name": "50/30/20 Budget",
+            "creator": null,
+            "ratings": {
+                "count": 265,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/uki3sw5x301gb633wad10bi9gb2w",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/ylrsr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/9e35nsfh6ghwicgkzysqb30kceyr",
+                    "original_url": "https://public-files.gumroad.com/zwk5vycjb3prwze0p8uiy25td4ma",
+                    "thumbnail": null,
+                    "id": "6cff15a47c52a96a53fd672c968b942d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6cff15a47c52a96a53fd672c968b942d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "KTyW6yqJl1sVHi9zMDdCWQ==",
+            "permalink": "vqvcuu",
+            "name": "PARA Method Template",
+            "creator": null,
+            "ratings": {
+                "count": 491,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/ggxc6yjflewzmmd5z08ry7kbk54i",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/PARA?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/sufwvju46shu26huryw233ucxanu",
+                    "original_url": "https://public-files.gumroad.com/lmr91g932kjqcc5zpsz9lwq1qwbr",
+                    "thumbnail": null,
+                    "id": "4580de942cc77a566c09af603599d68c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "4580de942cc77a566c09af603599d68c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "4ZSkdB7UI8o6Skes74pLow==",
+            "permalink": "hmsuy",
+            "name": "Journal",
+            "creator": null,
+            "ratings": {
+                "count": 129,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/07s3my6kilpo4dgrrgmpftx0s6gn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hmsuy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5dwzi1we8hxknhwu512hj4g5v7gy",
+                    "original_url": "https://public-files.gumroad.com/7vk0dm1b11560iz5krsvpueoge5f",
+                    "thumbnail": null,
+                    "id": "39aee7bffcc9e9cbc297e651071a2804",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "39aee7bffcc9e9cbc297e651071a2804",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "Hsa5P8CQfyfaXTdfVOQ4NA==",
+            "permalink": "eGHsEB",
+            "name": "Habit Journal",
+            "creator": null,
+            "ratings": {
+                "count": 38,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/famr68ohn6oky0md1c8v1bro0i1i",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/eGHsEB?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/3k6pqt73en2xt7mo74syjnj5gj2x",
+                    "original_url": "https://public-files.gumroad.com/xoqno94vlxtx26uodbg0ph2y4qbx",
+                    "thumbnail": null,
+                    "id": "8416a3359e5ccb741a40e01050600a9d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "8416a3359e5ccb741a40e01050600a9d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "LDCHtT1duZqB3rd3WgBMOA==",
+            "permalink": "IudUtr",
+            "name": "Grocery List",
+            "creator": null,
+            "ratings": {
+                "count": 28,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/h8n6jczrpaqmqwc62z34984aq3y1",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/IudUtr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zf7igjd5m6ekgy8l87bhbd5bhna0",
+                    "original_url": "https://public-files.gumroad.com/f148hk4sx09vknc0xozhub8jk04s",
+                    "thumbnail": null,
+                    "id": "4e61cc3c0014c35aebff4a1b577ed98c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "4e61cc3c0014c35aebff4a1b577ed98c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "notion" : [
+        {
+            "id": "AnekSj9IvohRR37U-gxGig==",
+            "permalink": "zzkXrq",
+            "name": "Resume Template",
+            "creator": null,
+            "ratings": {
+                "count": 810,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/xj8l65xfslidrl7nf46vyvg7v3p8",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/zzkXrq?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/gd1akzxcj7zw72cwt2v470ii4wwq",
+                    "original_url": "https://public-files.gumroad.com/h5xm48wkd33dgp7055c7p3pymd86",
+                    "thumbnail": null,
+                    "id": "504d5e3f6ee6fbdb9d69ed1c08800e30",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "504d5e3f6ee6fbdb9d69ed1c08800e30",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U1LDt5DTpAgZM20h1XEs7g==",
+            "permalink": "oAOvg",
+            "name": "Invoice Template",
+            "creator": null,
+            "ratings": {
+                "count": 282,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/tpjwrsav1vzoz5x57a3b31zf1pnz",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/oAOvg?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/e7rrmyp04mkq68pqnp1zgep7r4zg",
+                    "original_url": "https://public-files.gumroad.com/kl1na4mg0mx65d678ybu8ctv9hnp",
+                    "thumbnail": null,
+                    "id": "3030b113458e28621193f1e58aff3d91",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/gky4yrsxff2nlh3hebc1mjjosslj",
+                    "original_url": "https://public-files.gumroad.com/0709cucti7m36n1g27dabrg3y1s9",
+                    "thumbnail": null,
+                    "id": "948e97dc51035faa3ef51752f4ec8b4a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "3030b113458e28621193f1e58aff3d91",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "7gLD2laC-UkPAKg4bzQZwQ==",
+            "permalink": "fuTxv",
+            "name": "Investment Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 1,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lfku788xsgsjdnru2azpv5x82sqq",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/fuTxv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/6ze0voecgsce1swqtua9rvwyqblw",
+                    "original_url": "https://public-files.gumroad.com/udtfvagwbi4rlztokgdtj1iuerr6",
+                    "thumbnail": null,
+                    "id": "8059d05421782fef38cad3cf026fa727",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "8059d05421782fef38cad3cf026fa727",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "TSaCOFoaLEuhYoNNlPFUgw==",
+            "permalink": "hUGAv",
+            "name": "Starter Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 9487,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/7pazj8g9ay8tn49vgxj5k87j8m51",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hUGAv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ucqvri33h96qpvj95pp9r4mwq8cm",
+                    "original_url": "https://public-files.gumroad.com/vnonsf6hnupz0u82z9rptq6987ii",
+                    "thumbnail": null,
+                    "id": "397942fd7d9bd6bb74aa38f3579bb27a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "397942fd7d9bd6bb74aa38f3579bb27a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "eTgG2wyvUsOdogUUsLQoBw==",
+            "permalink": "wsviv",
+            "name": "Website Template Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 61,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/1hymgbmy07fiveeg2g5vb3254xm3",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/wsviv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/gn8xszg9ucbcrqj5lfdjt8254b2c",
+                    "original_url": "https://public-files.gumroad.com/gpgxn9cqdyl7ozd51kgw9q6aza5n",
+                    "thumbnail": null,
+                    "id": "6a2a38cd075c5c183abd703f38da5563",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                },
+                {
+                    "url": "https://public-files.gumroad.com/tgvg6m8n9aah3pmswacey3oga8ik",
+                    "original_url": "https://public-files.gumroad.com/jefwf3b9h4lcts01o923h805f49y",
+                    "thumbnail": null,
+                    "id": "987d84e5bf66a533338630ef04f3b9ca",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                },
+                {
+                    "url": "https://public-files.gumroad.com/k8ai65qytuamr9aibaqinmir93r8",
+                    "original_url": "https://public-files.gumroad.com/nu8yqm427x0du1jljzhyu24zytb8",
+                    "thumbnail": null,
+                    "id": "f8b2229ac95c03c6a768c229891ac55a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 404,
+                    "native_width": 1930,
+                    "native_height": 1164
+                }
+            ],
+            "main_cover_id": "6a2a38cd075c5c183abd703f38da5563",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "9X4WcWtuz7ij0R7xpTu4iQ==",
+            "permalink": "DEnNV",
+            "name": "Habit Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2368,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/fnno94qcqdursp8m9k51kqjm2brx",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/DEnNV?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/0bfcns2c69z4y5phw7pb29rdddg1",
+                    "original_url": "https://public-files.gumroad.com/6jxec7kvzkllat1fl8am8jlayq3n",
+                    "thumbnail": null,
+                    "id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "r14TKVdsEe7gM4DLF58Maw==",
+            "permalink": "beygm",
+            "name": "Finance Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 131,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/pdy8nhs30h4ur9wez3nrdfxlw787",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/beygm?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ao0iyg1j8kp94q6vceyogdpacmsz",
+                    "original_url": "https://public-files.gumroad.com/0fz7qyp601bq0i15h6l8bp5gmw54",
+                    "thumbnail": null,
+                    "id": "6e9571cafd9340728760c8695235ed77",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/4ll4h74t0w1a8ztl5uoe1canoqe3",
+                    "original_url": "https://public-files.gumroad.com/rg8g8weh99zkh4xakijw2dcs32l5",
+                    "thumbnail": null,
+                    "id": "d311134dccefebe0528e7f631109ec8e",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6e9571cafd9340728760c8695235ed77",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "GtsLPnJOqk392GtqUAMooQ==",
+            "permalink": "gpckg",
+            "name": "Freelance OS",
+            "creator": null,
+            "ratings": {
+                "count": 47,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/ei6imsqw7qn0muol2pdx6kuit16d",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/freelanceos?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ogh6bcmug8cokxdhbunkrd3aia7e",
+                    "original_url": "https://public-files.gumroad.com/xupi0ml0cv4x91a548zp81p92nve",
+                    "thumbnail": null,
+                    "id": "616b94b72996fa9735420bc7c499220d",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "616b94b72996fa9735420bc7c499220d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "AgEuQMKKbunE4QyBSkfHzQ==",
+            "permalink": "bpvho",
+            "name": "CRM Template",
+            "creator": null,
+            "ratings": {
+                "count": 508,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/k5vdvm80fg9r828scp1dpe0pnbzn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/bpvho?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/hss5827bw33jcq4f1iszl4kgu817",
+                    "original_url": "https://public-files.gumroad.com/4ek7oty7q8wk445r1nt911svwg9i",
+                    "thumbnail": null,
+                    "id": "6c35b9cf8818bb3e27d22152584fc82b",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6c35b9cf8818bb3e27d22152584fc82b",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+    
+        {
+            "id": "jl0f6UTQfKXHSJsCnlNzlg==",
+            "permalink": "dvspj",
+            "name": "Objectives and Key Results (OKRs) Template",
+            "creator": null,
+            "ratings": {
+                "count": 108,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/8ko09l53lj0cjxnngrq7wv5xuj9a",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/dvspj?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7xau7jmgw9c3d3768th792whojnm",
+                    "original_url": "https://public-files.gumroad.com/mmihvfb3lh6rw1m7jg75djh2y50u",
+                    "thumbnail": null,
+                    "id": "ea1b89d0d62a15e22594a71939a39e63",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "ea1b89d0d62a15e22594a71939a39e63",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "VdlB_iNq2u2nmjJu0CBL3Q==",
+            "permalink": "qwzxl",
+            "name": "Second Brain Template",
+            "creator": null,
+            "ratings": {
+                "count": 240,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/nn1f2qdmyq5x36640zc9r4h34chk",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/brain?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/kwswx0y4d5o2fcgnaspcdyfy8xlr",
+                    "original_url": "https://public-files.gumroad.com/hjc66hemmze60ucgsyf0dl4qzbhg",
+                    "thumbnail": null,
+                    "id": "939ffc1feb6aead8779235b9a4cde69c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                },
+                {
+                    "url": "https://public-files.gumroad.com/vz90ya61ypz0aycvrwkwq3rv1ob4",
+                    "original_url": "https://public-files.gumroad.com/8rwgdg7w9szptrtobzypz41f3dgo",
+                    "thumbnail": null,
+                    "id": "d09797b80164e1016da389585dff47ec",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "939ffc1feb6aead8779235b9a4cde69c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "o9ZMyIAK1GW2GfAddqLMww==",
+            "permalink": "axszr",
+            "name": "Complete Bundle ",
+            "creator": null,
+            "ratings": {
+                "count": 59,
+                "average": 4.8
+            },
+            "price": 29900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/oer12af9k985x21ss4jdgi2necrd",
+            "native_type": "bundle",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/axszr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/c0pq5urz7vpided7bptth6kl57dl",
+                    "original_url": "https://public-files.gumroad.com/35sbthemkckc73lztbve881asxq3",
+                    "thumbnail": null,
+                    "id": "11f9885cc345a38c4da9187577e1bc3a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "11f9885cc345a38c4da9187577e1bc3a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U6BDTHuobON6Ut-s-C4ung==",
+            "permalink": "wxtvs",
+            "name": "Content Calendar",
+            "creator": null,
+            "ratings": {
+                "count": 382,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s6envobhjovgyy0nnzygdnp9gg59",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/wxtvs?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/rpr09kh1ie1640bzfd6u901opyym",
+                    "original_url": "https://public-files.gumroad.com/ya5sk2g2jk049a9yv0f09vlxaydq",
+                    "thumbnail": null,
+                    "id": "eef1cdd2f7d30275c7ad543ab8210f23",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1905,
+                    "native_height": 1140
+                }
+            ],
+            "main_cover_id": "eef1cdd2f7d30275c7ad543ab8210f23",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "QCnqUkYseW7jiu5E6MSfTw==",
+            "permalink": "vcfde",
+            "name": "Subscription Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 561,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/revv3bkh8c6qekjc2aewgwr2giv9",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/vcfde?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/x3a2xgq3xmmiig3xw617cdhr7cnz",
+                    "original_url": "https://public-files.gumroad.com/qm480x8le9vpd7gsf7afrcbeoxsv",
+                    "thumbnail": null,
+                    "id": "f9c77b8c70afa7de836b46044894f29d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "f9c77b8c70afa7de836b46044894f29d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "-znJjPe0k9soSAUzGWbYIw==",
+            "permalink": "negwr",
+            "name": "Goal Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 576,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/u76dlyvn3lawkm8uosizlm039gms",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/negwr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zsop63i7jhpnakwjtoulicbe580b",
+                    "original_url": "https://public-files.gumroad.com/xxwewksrhvedrzmlj7jcm3wjqs3t",
+                    "thumbnail": null,
+                    "id": "46f18d1fb9c3adc1743d52d3f0899639",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "46f18d1fb9c3adc1743d52d3f0899639",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bh7do-1xeR-gEUGu5uHIIg==",
+            "permalink": "ifrdj",
+            "name": "Expense Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2056,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/jnmi34605q919m5xz7kgv2lqoe9k",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/expense?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30",
+                    "original_url": "https://public-files.gumroad.com/akaa6est60dpsuxjoc6n4ly23mk6",
+                    "thumbnail": null,
+                    "id": "13cd85215477fbfa4398fb1f49a3d99f",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "13cd85215477fbfa4398fb1f49a3d99f",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "OMYsq6QNoxhTd5htpV9jQw==",
+            "permalink": "mzizp",
+            "name": "Book Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 922,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lex4zrwaoo09jtob0tlq9tr01x2g",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/mzizp?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5d9wou94mwgo0ou9qfcu6l0sidky",
+                    "original_url": "https://public-files.gumroad.com/wu8gnigzsqi8b6f3qjgzs568lsrl",
+                    "thumbnail": null,
+                    "id": "6270980ab5819cfa383614ccfe9d1d75",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/zh3e1d2s0513mbbgbvm7tjk2we2m",
+                    "original_url": "https://public-files.gumroad.com/gaodngl5r4q82170et4n1m8hy8tz",
+                    "thumbnail": null,
+                    "id": "df5629edd2265b2009559487d8d6dfd0",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6270980ab5819cfa383614ccfe9d1d75",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bavGravjFtNCy_H0brCDjw==",
+            "permalink": "nqtvy",
+            "name": "Travel Planner",
+            "creator": null,
+            "ratings": {
+                "count": 760,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/txi3r13mdpq8anvv5o30z0w5nzd8",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/nqtvy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7cur5ddhhc6a1w0fzjiqraoy003k",
+                    "original_url": "https://public-files.gumroad.com/hjs128i6rwo6taidlvj2wk6b37ks",
+                    "thumbnail": null,
+                    "id": "61ceeef5c7d726c78d8fca410c6c0793",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/stlnpcbtx53wdisyk1h2g3gyvygh",
+                    "original_url": "https://public-files.gumroad.com/l0ljcc8zwiakd87xtf5xnm9alsbr",
+                    "thumbnail": null,
+                    "id": "f1e561083fd1eaf56fa5ff22a65e2a98",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "61ceeef5c7d726c78d8fca410c6c0793",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "36T0zPYyZwDcznrmyjbl0A==",
+            "permalink": "vhdyw",
+            "name": "Content OS",
+            "creator": null,
+            "ratings": {
+                "count": 30,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s8oj9c72nm7xd7ypr25o5f52kvuj",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/contentos?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/sly9c1gvq628fj5o4fg0cladt8wg",
+                    "original_url": "https://public-files.gumroad.com/kvseheamt28lq3d7mcl7x4i4xr0f",
+                    "thumbnail": null,
+                    "id": "6ff7b5c577ac58faf794e69f19e90956",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6ff7b5c577ac58faf794e69f19e90956",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bO3Fb2p0qb9tENpCIN49TQ==",
+            "permalink": "hkrwp",
+            "name": "Second Brain Course",
+            "creator": null,
+            "ratings": {
+                "count": 10,
+                "average": 4.8
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/3wutelfc5hqs1yvucny4fx53s6i4",
+            "native_type": "course",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/notioncourse?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/4ierfmul3tyqrt1d161yaugybl5v",
+                    "original_url": "https://public-files.gumroad.com/zc7m5mmobn5a2swfq929rvmkeon5",
+                    "thumbnail": null,
+                    "id": "e7cca09c90f155d3d1e10e1b677dbd60",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "e7cca09c90f155d3d1e10e1b677dbd60",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "66gCFFj255pCPH7BlFTfGg==",
+            "permalink": "xkeese",
+            "name": "Workout Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 1131,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/qzbb0agfy3b6d28dczab24fecee4",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/xkeese?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/9z53mdqxrr3jaddn4vx896jxvv7j",
+                    "original_url": "https://public-files.gumroad.com/lpbyzfv1mylgm2xfsz87ucxdsx87",
+                    "thumbnail": null,
+                    "id": "16762d783a155fe9423052566ab31e58",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/72fm5ic92ris6o91e996g6pspb02",
+                    "original_url": "https://public-files.gumroad.com/q6a1d39srtzizdahvzf96ipgy9zu",
+                    "thumbnail": null,
+                    "id": "69f830338ed17d964a8cebc280fb79aa",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/d7zdez40js4kj1ewfg4s8ig4tyvt",
+                    "original_url": "https://public-files.gumroad.com/i4cp6w3td4dmc9vamzpmdq0bhvtk",
+                    "thumbnail": null,
+                    "id": "ba3d858944109047643b4eee5852c278",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "16762d783a155fe9423052566ab31e58",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "KTyW6yqJl1sVHi9zMDdCWQ==",
+            "permalink": "vqvcuu",
+            "name": "PARA Method Template",
+            "creator": null,
+            "ratings": {
+                "count": 491,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/ggxc6yjflewzmmd5z08ry7kbk54i",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/PARA?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/sufwvju46shu26huryw233ucxanu",
+                    "original_url": "https://public-files.gumroad.com/lmr91g932kjqcc5zpsz9lwq1qwbr",
+                    "thumbnail": null,
+                    "id": "4580de942cc77a566c09af603599d68c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "4580de942cc77a566c09af603599d68c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "4ZSkdB7UI8o6Skes74pLow==",
+            "permalink": "hmsuy",
+            "name": "Journal",
+            "creator": null,
+            "ratings": {
+                "count": 129,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/07s3my6kilpo4dgrrgmpftx0s6gn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hmsuy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5dwzi1we8hxknhwu512hj4g5v7gy",
+                    "original_url": "https://public-files.gumroad.com/7vk0dm1b11560iz5krsvpueoge5f",
+                    "thumbnail": null,
+                    "id": "39aee7bffcc9e9cbc297e651071a2804",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "39aee7bffcc9e9cbc297e651071a2804",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "Hsa5P8CQfyfaXTdfVOQ4NA==",
+            "permalink": "eGHsEB",
+            "name": "Habit Journal",
+            "creator": null,
+            "ratings": {
+                "count": 38,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/famr68ohn6oky0md1c8v1bro0i1i",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/eGHsEB?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/3k6pqt73en2xt7mo74syjnj5gj2x",
+                    "original_url": "https://public-files.gumroad.com/xoqno94vlxtx26uodbg0ph2y4qbx",
+                    "thumbnail": null,
+                    "id": "8416a3359e5ccb741a40e01050600a9d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "8416a3359e5ccb741a40e01050600a9d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "LDCHtT1duZqB3rd3WgBMOA==",
+            "permalink": "IudUtr",
+            "name": "Grocery List",
+            "creator": null,
+            "ratings": {
+                "count": 28,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/h8n6jczrpaqmqwc62z34984aq3y1",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/IudUtr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zf7igjd5m6ekgy8l87bhbd5bhna0",
+                    "original_url": "https://public-files.gumroad.com/f148hk4sx09vknc0xozhub8jk04s",
+                    "thumbnail": null,
+                    "id": "4e61cc3c0014c35aebff4a1b577ed98c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "4e61cc3c0014c35aebff4a1b577ed98c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "notion dashboard": [
+        {
+            "id": "U1LDt5DTpAgZM20h1XEs7g==",
+            "permalink": "oAOvg",
+            "name": "Invoice Template",
+            "creator": null,
+            "ratings": {
+                "count": 282,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/tpjwrsav1vzoz5x57a3b31zf1pnz",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/oAOvg?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/e7rrmyp04mkq68pqnp1zgep7r4zg",
+                    "original_url": "https://public-files.gumroad.com/kl1na4mg0mx65d678ybu8ctv9hnp",
+                    "thumbnail": null,
+                    "id": "3030b113458e28621193f1e58aff3d91",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/gky4yrsxff2nlh3hebc1mjjosslj",
+                    "original_url": "https://public-files.gumroad.com/0709cucti7m36n1g27dabrg3y1s9",
+                    "thumbnail": null,
+                    "id": "948e97dc51035faa3ef51752f4ec8b4a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "3030b113458e28621193f1e58aff3d91",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "7gLD2laC-UkPAKg4bzQZwQ==",
+            "permalink": "fuTxv",
+            "name": "Investment Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 1,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lfku788xsgsjdnru2azpv5x82sqq",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/fuTxv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/6ze0voecgsce1swqtua9rvwyqblw",
+                    "original_url": "https://public-files.gumroad.com/udtfvagwbi4rlztokgdtj1iuerr6",
+                    "thumbnail": null,
+                    "id": "8059d05421782fef38cad3cf026fa727",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "8059d05421782fef38cad3cf026fa727",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "TSaCOFoaLEuhYoNNlPFUgw==",
+            "permalink": "hUGAv",
+            "name": "Starter Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 9487,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/7pazj8g9ay8tn49vgxj5k87j8m51",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hUGAv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ucqvri33h96qpvj95pp9r4mwq8cm",
+                    "original_url": "https://public-files.gumroad.com/vnonsf6hnupz0u82z9rptq6987ii",
+                    "thumbnail": null,
+                    "id": "397942fd7d9bd6bb74aa38f3579bb27a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "397942fd7d9bd6bb74aa38f3579bb27a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "9X4WcWtuz7ij0R7xpTu4iQ==",
+            "permalink": "DEnNV",
+            "name": "Habit Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2368,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/fnno94qcqdursp8m9k51kqjm2brx",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/DEnNV?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/0bfcns2c69z4y5phw7pb29rdddg1",
+                    "original_url": "https://public-files.gumroad.com/6jxec7kvzkllat1fl8am8jlayq3n",
+                    "thumbnail": null,
+                    "id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "r14TKVdsEe7gM4DLF58Maw==",
+            "permalink": "beygm",
+            "name": "Finance Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 131,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/pdy8nhs30h4ur9wez3nrdfxlw787",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/beygm?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ao0iyg1j8kp94q6vceyogdpacmsz",
+                    "original_url": "https://public-files.gumroad.com/0fz7qyp601bq0i15h6l8bp5gmw54",
+                    "thumbnail": null,
+                    "id": "6e9571cafd9340728760c8695235ed77",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/4ll4h74t0w1a8ztl5uoe1canoqe3",
+                    "original_url": "https://public-files.gumroad.com/rg8g8weh99zkh4xakijw2dcs32l5",
+                    "thumbnail": null,
+                    "id": "d311134dccefebe0528e7f631109ec8e",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6e9571cafd9340728760c8695235ed77",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "GtsLPnJOqk392GtqUAMooQ==",
+            "permalink": "gpckg",
+            "name": "Freelance OS",
+            "creator": null,
+            "ratings": {
+                "count": 47,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/ei6imsqw7qn0muol2pdx6kuit16d",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/freelanceos?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ogh6bcmug8cokxdhbunkrd3aia7e",
+                    "original_url": "https://public-files.gumroad.com/xupi0ml0cv4x91a548zp81p92nve",
+                    "thumbnail": null,
+                    "id": "616b94b72996fa9735420bc7c499220d",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "616b94b72996fa9735420bc7c499220d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "AgEuQMKKbunE4QyBSkfHzQ==",
+            "permalink": "bpvho",
+            "name": "CRM Template",
+            "creator": null,
+            "ratings": {
+                "count": 508,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/k5vdvm80fg9r828scp1dpe0pnbzn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/bpvho?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/hss5827bw33jcq4f1iszl4kgu817",
+                    "original_url": "https://public-files.gumroad.com/4ek7oty7q8wk445r1nt911svwg9i",
+                    "thumbnail": null,
+                    "id": "6c35b9cf8818bb3e27d22152584fc82b",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6c35b9cf8818bb3e27d22152584fc82b",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "jl0f6UTQfKXHSJsCnlNzlg==",
+            "permalink": "dvspj",
+            "name": "Objectives and Key Results (OKRs) Template",
+            "creator": null,
+            "ratings": {
+                "count": 108,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/8ko09l53lj0cjxnngrq7wv5xuj9a",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/dvspj?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7xau7jmgw9c3d3768th792whojnm",
+                    "original_url": "https://public-files.gumroad.com/mmihvfb3lh6rw1m7jg75djh2y50u",
+                    "thumbnail": null,
+                    "id": "ea1b89d0d62a15e22594a71939a39e63",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "ea1b89d0d62a15e22594a71939a39e63",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "VdlB_iNq2u2nmjJu0CBL3Q==",
+            "permalink": "qwzxl",
+            "name": "Second Brain Template",
+            "creator": null,
+            "ratings": {
+                "count": 240,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/nn1f2qdmyq5x36640zc9r4h34chk",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/brain?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/kwswx0y4d5o2fcgnaspcdyfy8xlr",
+                    "original_url": "https://public-files.gumroad.com/hjc66hemmze60ucgsyf0dl4qzbhg",
+                    "thumbnail": null,
+                    "id": "939ffc1feb6aead8779235b9a4cde69c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                },
+                {
+                    "url": "https://public-files.gumroad.com/vz90ya61ypz0aycvrwkwq3rv1ob4",
+                    "original_url": "https://public-files.gumroad.com/8rwgdg7w9szptrtobzypz41f3dgo",
+                    "thumbnail": null,
+                    "id": "d09797b80164e1016da389585dff47ec",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "939ffc1feb6aead8779235b9a4cde69c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "o9ZMyIAK1GW2GfAddqLMww==",
+            "permalink": "axszr",
+            "name": "Complete Bundle ",
+            "creator": null,
+            "ratings": {
+                "count": 59,
+                "average": 4.8
+            },
+            "price": 29900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/oer12af9k985x21ss4jdgi2necrd",
+            "native_type": "bundle",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/axszr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/c0pq5urz7vpided7bptth6kl57dl",
+                    "original_url": "https://public-files.gumroad.com/35sbthemkckc73lztbve881asxq3",
+                    "thumbnail": null,
+                    "id": "11f9885cc345a38c4da9187577e1bc3a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "11f9885cc345a38c4da9187577e1bc3a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U6BDTHuobON6Ut-s-C4ung==",
+            "permalink": "wxtvs",
+            "name": "Content Calendar",
+            "creator": null,
+            "ratings": {
+                "count": 382,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s6envobhjovgyy0nnzygdnp9gg59",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/wxtvs?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/rpr09kh1ie1640bzfd6u901opyym",
+                    "original_url": "https://public-files.gumroad.com/ya5sk2g2jk049a9yv0f09vlxaydq",
+                    "thumbnail": null,
+                    "id": "eef1cdd2f7d30275c7ad543ab8210f23",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1905,
+                    "native_height": 1140
+                }
+            ],
+            "main_cover_id": "eef1cdd2f7d30275c7ad543ab8210f23",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "QCnqUkYseW7jiu5E6MSfTw==",
+            "permalink": "vcfde",
+            "name": "Subscription Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 561,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/revv3bkh8c6qekjc2aewgwr2giv9",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/vcfde?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/x3a2xgq3xmmiig3xw617cdhr7cnz",
+                    "original_url": "https://public-files.gumroad.com/qm480x8le9vpd7gsf7afrcbeoxsv",
+                    "thumbnail": null,
+                    "id": "f9c77b8c70afa7de836b46044894f29d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "f9c77b8c70afa7de836b46044894f29d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "-znJjPe0k9soSAUzGWbYIw==",
+            "permalink": "negwr",
+            "name": "Goal Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 576,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/u76dlyvn3lawkm8uosizlm039gms",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/negwr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zsop63i7jhpnakwjtoulicbe580b",
+                    "original_url": "https://public-files.gumroad.com/xxwewksrhvedrzmlj7jcm3wjqs3t",
+                    "thumbnail": null,
+                    "id": "46f18d1fb9c3adc1743d52d3f0899639",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "46f18d1fb9c3adc1743d52d3f0899639",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bh7do-1xeR-gEUGu5uHIIg==",
+            "permalink": "ifrdj",
+            "name": "Expense Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2056,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/jnmi34605q919m5xz7kgv2lqoe9k",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/expense?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30",
+                    "original_url": "https://public-files.gumroad.com/akaa6est60dpsuxjoc6n4ly23mk6",
+                    "thumbnail": null,
+                    "id": "13cd85215477fbfa4398fb1f49a3d99f",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "13cd85215477fbfa4398fb1f49a3d99f",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "OMYsq6QNoxhTd5htpV9jQw==",
+            "permalink": "mzizp",
+            "name": "Book Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 922,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lex4zrwaoo09jtob0tlq9tr01x2g",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/mzizp?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5d9wou94mwgo0ou9qfcu6l0sidky",
+                    "original_url": "https://public-files.gumroad.com/wu8gnigzsqi8b6f3qjgzs568lsrl",
+                    "thumbnail": null,
+                    "id": "6270980ab5819cfa383614ccfe9d1d75",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/zh3e1d2s0513mbbgbvm7tjk2we2m",
+                    "original_url": "https://public-files.gumroad.com/gaodngl5r4q82170et4n1m8hy8tz",
+                    "thumbnail": null,
+                    "id": "df5629edd2265b2009559487d8d6dfd0",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6270980ab5819cfa383614ccfe9d1d75",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bO3Fb2p0qb9tENpCIN49TQ==",
+            "permalink": "hkrwp",
+            "name": "Second Brain Course",
+            "creator": null,
+            "ratings": {
+                "count": 10,
+                "average": 4.8
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/3wutelfc5hqs1yvucny4fx53s6i4",
+            "native_type": "course",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/notioncourse?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/4ierfmul3tyqrt1d161yaugybl5v",
+                    "original_url": "https://public-files.gumroad.com/zc7m5mmobn5a2swfq929rvmkeon5",
+                    "thumbnail": null,
+                    "id": "e7cca09c90f155d3d1e10e1b677dbd60",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "e7cca09c90f155d3d1e10e1b677dbd60",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "notion planner" : [
+        {
+            "id": "U1LDt5DTpAgZM20h1XEs7g==",
+            "permalink": "oAOvg",
+            "name": "Invoice Template",
+            "creator": null,
+            "ratings": {
+                "count": 282,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/tpjwrsav1vzoz5x57a3b31zf1pnz",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/oAOvg?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/e7rrmyp04mkq68pqnp1zgep7r4zg",
+                    "original_url": "https://public-files.gumroad.com/kl1na4mg0mx65d678ybu8ctv9hnp",
+                    "thumbnail": null,
+                    "id": "3030b113458e28621193f1e58aff3d91",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/gky4yrsxff2nlh3hebc1mjjosslj",
+                    "original_url": "https://public-files.gumroad.com/0709cucti7m36n1g27dabrg3y1s9",
+                    "thumbnail": null,
+                    "id": "948e97dc51035faa3ef51752f4ec8b4a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "3030b113458e28621193f1e58aff3d91",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "TSaCOFoaLEuhYoNNlPFUgw==",
+            "permalink": "hUGAv",
+            "name": "Starter Bundle",
+            "creator": null,
+            "ratings": {
+                "count": 9487,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/7pazj8g9ay8tn49vgxj5k87j8m51",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hUGAv?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ucqvri33h96qpvj95pp9r4mwq8cm",
+                    "original_url": "https://public-files.gumroad.com/vnonsf6hnupz0u82z9rptq6987ii",
+                    "thumbnail": null,
+                    "id": "397942fd7d9bd6bb74aa38f3579bb27a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "397942fd7d9bd6bb74aa38f3579bb27a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "r14TKVdsEe7gM4DLF58Maw==",
+            "permalink": "beygm",
+            "name": "Finance Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 131,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/pdy8nhs30h4ur9wez3nrdfxlw787",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/beygm?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ao0iyg1j8kp94q6vceyogdpacmsz",
+                    "original_url": "https://public-files.gumroad.com/0fz7qyp601bq0i15h6l8bp5gmw54",
+                    "thumbnail": null,
+                    "id": "6e9571cafd9340728760c8695235ed77",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/4ll4h74t0w1a8ztl5uoe1canoqe3",
+                    "original_url": "https://public-files.gumroad.com/rg8g8weh99zkh4xakijw2dcs32l5",
+                    "thumbnail": null,
+                    "id": "d311134dccefebe0528e7f631109ec8e",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6e9571cafd9340728760c8695235ed77",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "jl0f6UTQfKXHSJsCnlNzlg==",
+            "permalink": "dvspj",
+            "name": "Objectives and Key Results (OKRs) Template",
+            "creator": null,
+            "ratings": {
+                "count": 108,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/8ko09l53lj0cjxnngrq7wv5xuj9a",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/dvspj?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7xau7jmgw9c3d3768th792whojnm",
+                    "original_url": "https://public-files.gumroad.com/mmihvfb3lh6rw1m7jg75djh2y50u",
+                    "thumbnail": null,
+                    "id": "ea1b89d0d62a15e22594a71939a39e63",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "ea1b89d0d62a15e22594a71939a39e63",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "VdlB_iNq2u2nmjJu0CBL3Q==",
+            "permalink": "qwzxl",
+            "name": "Second Brain Template",
+            "creator": null,
+            "ratings": {
+                "count": 240,
+                "average": 4.9
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/nn1f2qdmyq5x36640zc9r4h34chk",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/brain?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/kwswx0y4d5o2fcgnaspcdyfy8xlr",
+                    "original_url": "https://public-files.gumroad.com/hjc66hemmze60ucgsyf0dl4qzbhg",
+                    "thumbnail": null,
+                    "id": "939ffc1feb6aead8779235b9a4cde69c",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                },
+                {
+                    "url": "https://public-files.gumroad.com/vz90ya61ypz0aycvrwkwq3rv1ob4",
+                    "original_url": "https://public-files.gumroad.com/8rwgdg7w9szptrtobzypz41f3dgo",
+                    "thumbnail": null,
+                    "id": "d09797b80164e1016da389585dff47ec",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "939ffc1feb6aead8779235b9a4cde69c",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "o9ZMyIAK1GW2GfAddqLMww==",
+            "permalink": "axszr",
+            "name": "Complete Bundle ",
+            "creator": null,
+            "ratings": {
+                "count": 59,
+                "average": 4.8
+            },
+            "price": 29900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/oer12af9k985x21ss4jdgi2necrd",
+            "native_type": "bundle",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/axszr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/c0pq5urz7vpided7bptth6kl57dl",
+                    "original_url": "https://public-files.gumroad.com/35sbthemkckc73lztbve881asxq3",
+                    "thumbnail": null,
+                    "id": "11f9885cc345a38c4da9187577e1bc3a",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "11f9885cc345a38c4da9187577e1bc3a",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U6BDTHuobON6Ut-s-C4ung==",
+            "permalink": "wxtvs",
+            "name": "Content Calendar",
+            "creator": null,
+            "ratings": {
+                "count": 382,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s6envobhjovgyy0nnzygdnp9gg59",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/wxtvs?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/rpr09kh1ie1640bzfd6u901opyym",
+                    "original_url": "https://public-files.gumroad.com/ya5sk2g2jk049a9yv0f09vlxaydq",
+                    "thumbnail": null,
+                    "id": "eef1cdd2f7d30275c7ad543ab8210f23",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1905,
+                    "native_height": 1140
+                }
+            ],
+            "main_cover_id": "eef1cdd2f7d30275c7ad543ab8210f23",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "QCnqUkYseW7jiu5E6MSfTw==",
+            "permalink": "vcfde",
+            "name": "Subscription Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 561,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/revv3bkh8c6qekjc2aewgwr2giv9",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/vcfde?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/x3a2xgq3xmmiig3xw617cdhr7cnz",
+                    "original_url": "https://public-files.gumroad.com/qm480x8le9vpd7gsf7afrcbeoxsv",
+                    "thumbnail": null,
+                    "id": "f9c77b8c70afa7de836b46044894f29d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "f9c77b8c70afa7de836b46044894f29d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "-znJjPe0k9soSAUzGWbYIw==",
+            "permalink": "negwr",
+            "name": "Goal Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 576,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/u76dlyvn3lawkm8uosizlm039gms",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/negwr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/zsop63i7jhpnakwjtoulicbe580b",
+                    "original_url": "https://public-files.gumroad.com/xxwewksrhvedrzmlj7jcm3wjqs3t",
+                    "thumbnail": null,
+                    "id": "46f18d1fb9c3adc1743d52d3f0899639",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "46f18d1fb9c3adc1743d52d3f0899639",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bh7do-1xeR-gEUGu5uHIIg==",
+            "permalink": "ifrdj",
+            "name": "Expense Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2056,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/jnmi34605q919m5xz7kgv2lqoe9k",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/expense?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30",
+                    "original_url": "https://public-files.gumroad.com/akaa6est60dpsuxjoc6n4ly23mk6",
+                    "thumbnail": null,
+                    "id": "13cd85215477fbfa4398fb1f49a3d99f",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "13cd85215477fbfa4398fb1f49a3d99f",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "OMYsq6QNoxhTd5htpV9jQw==",
+            "permalink": "mzizp",
+            "name": "Book Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 922,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lex4zrwaoo09jtob0tlq9tr01x2g",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/mzizp?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5d9wou94mwgo0ou9qfcu6l0sidky",
+                    "original_url": "https://public-files.gumroad.com/wu8gnigzsqi8b6f3qjgzs568lsrl",
+                    "thumbnail": null,
+                    "id": "6270980ab5819cfa383614ccfe9d1d75",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/zh3e1d2s0513mbbgbvm7tjk2we2m",
+                    "original_url": "https://public-files.gumroad.com/gaodngl5r4q82170et4n1m8hy8tz",
+                    "thumbnail": null,
+                    "id": "df5629edd2265b2009559487d8d6dfd0",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6270980ab5819cfa383614ccfe9d1d75",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bavGravjFtNCy_H0brCDjw==",
+            "permalink": "nqtvy",
+            "name": "Travel Planner",
+            "creator": null,
+            "ratings": {
+                "count": 760,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/txi3r13mdpq8anvv5o30z0w5nzd8",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/nqtvy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7cur5ddhhc6a1w0fzjiqraoy003k",
+                    "original_url": "https://public-files.gumroad.com/hjs128i6rwo6taidlvj2wk6b37ks",
+                    "thumbnail": null,
+                    "id": "61ceeef5c7d726c78d8fca410c6c0793",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                },
+                {
+                    "url": "https://public-files.gumroad.com/stlnpcbtx53wdisyk1h2g3gyvygh",
+                    "original_url": "https://public-files.gumroad.com/l0ljcc8zwiakd87xtf5xnm9alsbr",
+                    "thumbnail": null,
+                    "id": "f1e561083fd1eaf56fa5ff22a65e2a98",
+                    "type": "image",
+                    "filetype": "jpg",
+                    "width": 670,
+                    "height": 350,
+                    "native_width": 2565,
+                    "native_height": 1341
+                }
+            ],
+            "main_cover_id": "61ceeef5c7d726c78d8fca410c6c0793",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bO3Fb2p0qb9tENpCIN49TQ==",
+            "permalink": "hkrwp",
+            "name": "Second Brain Course",
+            "creator": null,
+            "ratings": {
+                "count": 10,
+                "average": 4.8
+            },
+            "price": 7900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/3wutelfc5hqs1yvucny4fx53s6i4",
+            "native_type": "course",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/notioncourse?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/4ierfmul3tyqrt1d161yaugybl5v",
+                    "original_url": "https://public-files.gumroad.com/zc7m5mmobn5a2swfq929rvmkeon5",
+                    "thumbnail": null,
+                    "id": "e7cca09c90f155d3d1e10e1b677dbd60",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "e7cca09c90f155d3d1e10e1b677dbd60",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "notion layout": [
+        {
+            "id": "r14TKVdsEe7gM4DLF58Maw==",
+            "permalink": "beygm",
+            "name": "Finance Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 131,
+                "average": 4.9
+            },
+            "price": 4900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/pdy8nhs30h4ur9wez3nrdfxlw787",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/beygm?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/ao0iyg1j8kp94q6vceyogdpacmsz",
+                    "original_url": "https://public-files.gumroad.com/0fz7qyp601bq0i15h6l8bp5gmw54",
+                    "thumbnail": null,
+                    "id": "6e9571cafd9340728760c8695235ed77",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/4ll4h74t0w1a8ztl5uoe1canoqe3",
+                    "original_url": "https://public-files.gumroad.com/rg8g8weh99zkh4xakijw2dcs32l5",
+                    "thumbnail": null,
+                    "id": "d311134dccefebe0528e7f631109ec8e",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6e9571cafd9340728760c8695235ed77",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "jl0f6UTQfKXHSJsCnlNzlg==",
+            "permalink": "dvspj",
+            "name": "Objectives and Key Results (OKRs) Template",
+            "creator": null,
+            "ratings": {
+                "count": 108,
+                "average": 4.9
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/8ko09l53lj0cjxnngrq7wv5xuj9a",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/dvspj?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/7xau7jmgw9c3d3768th792whojnm",
+                    "original_url": "https://public-files.gumroad.com/mmihvfb3lh6rw1m7jg75djh2y50u",
+                    "thumbnail": null,
+                    "id": "ea1b89d0d62a15e22594a71939a39e63",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "ea1b89d0d62a15e22594a71939a39e63",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "U6BDTHuobON6Ut-s-C4ung==",
+            "permalink": "wxtvs",
+            "name": "Content Calendar",
+            "creator": null,
+            "ratings": {
+                "count": 382,
+                "average": 4.9
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/s6envobhjovgyy0nnzygdnp9gg59",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/wxtvs?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/rpr09kh1ie1640bzfd6u901opyym",
+                    "original_url": "https://public-files.gumroad.com/ya5sk2g2jk049a9yv0f09vlxaydq",
+                    "thumbnail": null,
+                    "id": "eef1cdd2f7d30275c7ad543ab8210f23",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1905,
+                    "native_height": 1140
+                }
+            ],
+            "main_cover_id": "eef1cdd2f7d30275c7ad543ab8210f23",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "bh7do-1xeR-gEUGu5uHIIg==",
+            "permalink": "ifrdj",
+            "name": "Expense Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2056,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/jnmi34605q919m5xz7kgv2lqoe9k",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/expense?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30",
+                    "original_url": "https://public-files.gumroad.com/akaa6est60dpsuxjoc6n4ly23mk6",
+                    "thumbnail": null,
+                    "id": "13cd85215477fbfa4398fb1f49a3d99f",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "13cd85215477fbfa4398fb1f49a3d99f",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "OMYsq6QNoxhTd5htpV9jQw==",
+            "permalink": "mzizp",
+            "name": "Book Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 922,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/lex4zrwaoo09jtob0tlq9tr01x2g",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/mzizp?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5d9wou94mwgo0ou9qfcu6l0sidky",
+                    "original_url": "https://public-files.gumroad.com/wu8gnigzsqi8b6f3qjgzs568lsrl",
+                    "thumbnail": null,
+                    "id": "6270980ab5819cfa383614ccfe9d1d75",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                },
+                {
+                    "url": "https://public-files.gumroad.com/zh3e1d2s0513mbbgbvm7tjk2we2m",
+                    "original_url": "https://public-files.gumroad.com/gaodngl5r4q82170et4n1m8hy8tz",
+                    "thumbnail": null,
+                    "id": "df5629edd2265b2009559487d8d6dfd0",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 376,
+                    "native_width": 1280,
+                    "native_height": 720
+                }
+            ],
+            "main_cover_id": "6270980ab5819cfa383614ccfe9d1d75",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "habit tracking": [
+        {
+            "id": "9X4WcWtuz7ij0R7xpTu4iQ==",
+            "permalink": "DEnNV",
+            "name": "Habit Tracker",
+            "creator": null,
+            "ratings": {
+                "count": 2368,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/fnno94qcqdursp8m9k51kqjm2brx",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/DEnNV?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/0bfcns2c69z4y5phw7pb29rdddg1",
+                    "original_url": "https://public-files.gumroad.com/6jxec7kvzkllat1fl8am8jlayq3n",
+                    "thumbnail": null,
+                    "id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "638d3e30e9801f0eb5bd31b1e7ad02de",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "Hsa5P8CQfyfaXTdfVOQ4NA==",
+            "permalink": "eGHsEB",
+            "name": "Habit Journal",
+            "creator": null,
+            "ratings": {
+                "count": 38,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/famr68ohn6oky0md1c8v1bro0i1i",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/eGHsEB?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/3k6pqt73en2xt7mo74syjnj5gj2x",
+                    "original_url": "https://public-files.gumroad.com/xoqno94vlxtx26uodbg0ph2y4qbx",
+                    "thumbnail": null,
+                    "id": "8416a3359e5ccb741a40e01050600a9d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "8416a3359e5ccb741a40e01050600a9d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "journaling": [
+        {
+            "id": "4ZSkdB7UI8o6Skes74pLow==",
+            "permalink": "hmsuy",
+            "name": "Journal",
+            "creator": null,
+            "ratings": {
+                "count": 129,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/07s3my6kilpo4dgrrgmpftx0s6gn",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/hmsuy?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/5dwzi1we8hxknhwu512hj4g5v7gy",
+                    "original_url": "https://public-files.gumroad.com/7vk0dm1b11560iz5krsvpueoge5f",
+                    "thumbnail": null,
+                    "id": "39aee7bffcc9e9cbc297e651071a2804",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "39aee7bffcc9e9cbc297e651071a2804",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        },
+        {
+            "id": "Hsa5P8CQfyfaXTdfVOQ4NA==",
+            "permalink": "eGHsEB",
+            "name": "Habit Journal",
+            "creator": null,
+            "ratings": {
+                "count": 38,
+                "average": 5.0
+            },
+            "price": 900,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/famr68ohn6oky0md1c8v1bro0i1i",
+            "native_type": "digital",
+            "is_pay_what_you_want": false,
+            "url": "https://easlo.gumroad.com/l/eGHsEB?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/3k6pqt73en2xt7mo74syjnj5gj2x",
+                    "original_url": "https://public-files.gumroad.com/xoqno94vlxtx26uodbg0ph2y4qbx",
+                    "thumbnail": null,
+                    "id": "8416a3359e5ccb741a40e01050600a9d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 1270,
+                    "native_height": 760
+                }
+            ],
+            "main_cover_id": "8416a3359e5ccb741a40e01050600a9d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ],
+    "budget": [
+        {
+            "id": "jOFrNXciJuNzisrquxA9eA==",
+            "permalink": "ylrsr",
+            "name": "50/30/20 Budget",
+            "creator": null,
+            "ratings": {
+                "count": 265,
+                "average": 5.0
+            },
+            "price": 0,
+            "currency_code": "usd",
+            "thumbnail_url": "https://public-files.gumroad.com/uki3sw5x301gb633wad10bi9gb2w",
+            "native_type": "digital",
+            "is_pay_what_you_want": true,
+            "url": "https://easlo.gumroad.com/l/ylrsr?layout=profile",
+            "covers": [
+                {
+                    "url": "https://public-files.gumroad.com/9e35nsfh6ghwicgkzysqb30kceyr",
+                    "original_url": "https://public-files.gumroad.com/zwk5vycjb3prwze0p8uiy25td4ma",
+                    "thumbnail": null,
+                    "id": "6cff15a47c52a96a53fd672c968b942d",
+                    "type": "image",
+                    "filetype": "png",
+                    "width": 670,
+                    "height": 400,
+                    "native_width": 2540,
+                    "native_height": 1520
+                }
+            ],
+            "main_cover_id": "6cff15a47c52a96a53fd672c968b942d",
+            "remaining": null,
+            "is_sales_limited": false,
+            "duration_in_months": null,
+            "recurrence": null
+        }
+    ]
+}

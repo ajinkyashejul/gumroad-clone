@@ -4,6 +4,8 @@ class Product
     field :permalink, type: String
     field :name, type: String
     field :is_template_bundle, type: Mongoid::Boolean
+    field :is_popular, type: Mongoid::Boolean
+    field :is_hidden, type: Mongoid::Boolean
     field :creator, type: String
     field :ratings, type: Hash
     field :price, type: Integer
@@ -14,6 +16,8 @@ class Product
     field :url, type: String
     field :covers, type: Array
     field :main_cover_id, type: String
+    field :tags, type: Array
+    field :file_types, type: Array
   end
   
   
