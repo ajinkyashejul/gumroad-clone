@@ -14,7 +14,8 @@ development:
       # of host:port pairs. (required)
       # hosts:
       #   - localhost:27017
-      # options:
+      options:
+        log_level: :FATAL
         # Note that all options listed below are Ruby driver client options (the mongo gem).
         # Please refer to the driver documentation of the version of the mongo gem you are using
         # for the most up-to-date list of options.
@@ -180,6 +181,8 @@ production:
     default:
       # Mongoid can connect to a URI accepted by the driver:
       uri: <%= ENV['MONGODB_URI'] %>
+      options:
+        log_level: :FATAL
 
 # test:
 #   clients:

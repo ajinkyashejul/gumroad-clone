@@ -1,11 +1,63 @@
-body {
-  margin: 0;
-  font-family: sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* @font-face {
+  font-family: "MabryProLight"; 
+  src: url("../public/MabryPro-Light.ttf") format("truetype"); 
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+* {
+  font-family: "Inter", "MabryProLight", sans-serif;
+} */
+
+:root {
+  --accent: 0 0 0;
+  --contrast-accent: 255 255 255;
+  --font-family: "Mabry", "Mabry Pro", "MabryProLight", sans-serif;
+  --color: 0 0 0;
+  --primary: var(--color);
+  --contrast-primary: 255 255 255;
+  --filled: 255 255 255;
+  --contrast-filled: var(--color);
+  --body-bg: #ffffff;
+  --border-alpha: 1
 }
+
+body {
+  background-color: #ffffff;
+  color: #000;
+  font-family: "Inter", "Mabry Pro", "MabryProLight", sans-serif;
+}
+
+main > section {
+  position: relative;
+  display: grid;
+  gap: var(--spacer-6);
+}
+ 
+.profile > header {
+  position: sticky;
+  top: 0;
+  z-index: 100;  
+  background-color: #ffffff;
+}
+
+.my-flash-message {
+  visibility: hidden;
+}
+
+.flash-message-visible {
+  position: fixed;
+  left: 50%;
+  top:20px;
+  right: 0px;
+  width: min(80%, 500px);
+  transform: translateX(-50%);
+  transition: all 0.3s ease-out 0.5s;
+  z-index: 9999;
+  padding: .75rem;
+  display: flex;
+  justify-content: center;
+  visibility: visible;
+  pointer-events: auto;
+  border-color: rgb(35 160 148);
+  background-color: rgb(235, 255, 253);
+}
+

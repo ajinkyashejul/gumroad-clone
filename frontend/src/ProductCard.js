@@ -1,31 +1,61 @@
 import React from "react";
-import "./App.css"
-import "./ProductCard.css";
-import starIcon from "./icon-star.svg"
+import thumbnailIcon from "./thumbnail.svg"
 
-// Example product card component
+const formatCount = (count) => {
+  if (count === 0) {
+    return 'No Ratings';
+  }
+  if (count >= 1000) {
+    return '(' + (count / 1000).toFixed(1) + 'K)';
+  } else {
+    return '(' + count + ')';
+  }
+};
+
+const formatRating = (rating) => {
+  if (rating.count === 0) {
+    return '';
+  }
+  return rating.average.toFixed(1);
+}
+
+const formatPrice = (price) => {
+  return price === 0 ? '$0+' : `$${price/100}`;
+}
+
 const ProductCard = ({ product }) => {
-  console.log(product);
+  const { name, thumbnail_url, ratings, price } = product;
+
   return (
-    <div className="product-card">
-      <div className="carousel">
-        <div className="items">
-          <img src={product.thumbnail_url} alt={product.name} />
+    <article className="product-card">
+      <a href="https://easlo.gumroad.com/l/axszr?layout=profile" className="stretched-link" aria-label="Complete Bundle ">
+        <div className="carousel">
+          <div className="items">
+            <img src={thumbnail_url || thumbnailIcon} alt={name} />          
+          </div>
         </div>
-      </div>
-      <div className="product-card-header">
-        <h3>{product.name}</h3>
-      </div>
-      <div className="product-card-footer">
-        <div className="rating">
-          <span><img className="icon" src={starIcon}/></span>
-          <span>{product.ratings.average} ({product.ratings.count})</span>
+      </a>
+      <header>
+        <h3 itemProp="name">{name}</h3>
+      </header>
+      <footer>
+        <div className="rating" aria-label="Rating">
+          <span className="icon icon-solid-star"></span>
+          <span className="rating-average">{formatRating(ratings)}</span>
+          <span>{formatCount(ratings.count)}</span>
         </div>
-        <div className="price">
-          <span>{product.price === 0 ? '$0+' : `$${product.price/100}`}</span>
+        <div itemScope itemProp="offers" itemType="https://schema.org/Offer" className="offer-container">
+          <div className="has-tooltip right" aria-describedby=":R55cq:">
+            <div className="price" itemProp="price" content="79">
+              <span>{formatPrice(price)}</span>
+            </div>
+            <div role="tooltip" id=":R55cq:">
+              <span>{formatPrice(price)}</span>
+            </div>
+          </div>          
         </div>
-      </div>
-    </div>
+      </footer>
+    </article>
   );
 };
 
